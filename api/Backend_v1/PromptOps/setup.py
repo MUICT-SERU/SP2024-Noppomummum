@@ -27,7 +27,7 @@ setup(
         'nltk',
         'PyDictionary',
         'textblob',
-        'transformers==4.31.0',
+        'transformers==4.48.0',
         'torch',
         'llama-stack',
         'anthropic',

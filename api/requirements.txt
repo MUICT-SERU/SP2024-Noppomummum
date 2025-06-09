@@ -18,7 +18,7 @@ sentence-transformers==4.1.0
 transformers==4.48.1
 torch==2.6.0
 accelerate
-litellm==1.24.5
+litellm==1.61.15
 llama-stack
 google-generativeai==0.8.5
 openpyxl==3.1.5
